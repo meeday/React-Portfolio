@@ -205,6 +205,11 @@ p {
 
 .nav-pills.nav-pills-icons .nav-item .nav-link {
   border-radius: 4px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  width: 120px;
+  height: 120px;
+  box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 13px 24px -11px rgba(156, 39, 176, .6);
 }
 
 .nav-pills .nav-item .nav-link.active {
